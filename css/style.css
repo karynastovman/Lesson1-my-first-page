@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(236, 201, 235);
+}
+
+ul {
+    list-style-type: square;
+}
+
+img.ramen {
+border-radius: 50%;
+}
+
+hr {
+    width: 15%;
+    border-style: dotted none none;
+    border-width: 0.5rem;
+    border-color: rgb(182, 131, 230);
+}
